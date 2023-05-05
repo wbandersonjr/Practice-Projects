@@ -28,12 +28,13 @@
     align-items: center;
     width: 270px;
     height: 410px;
-    padding: 10px 10px;
+    padding: 15px 15px;
    }
    .heading {
     color: hsl(218, 44%, 22%);
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: 700;
+    margin: 3px;
    }
    .body {
     color: hsl(220, 15%, 55%);
@@ -53,27 +54,32 @@
     width: 100%;
     margin-bottom: 10px;
    }
-    .attribution {
-      display: flex;
+   .attribution {
+      background-color: aqua;
       text-align: center;
-      width: 260px;
+      font-size: 0.8em;
     }
     
 
   </style>
 </head>
 <body>
-<div class="card">
-  <img src="images/image-qr-code.png" height:></img>
-  <div class="text">
-  <div class="heading">Improve your front-end skills by building projects</div>
-  <p class="body">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+<main role="main">
+  <div class="card">
+    <img alt="QR code link to Frontend Mentor website"src="images/image-qr-code.png"></img>
+    <div class="text">
+      <h1 class="heading">Improve your front-end skills by building projects</h1>
+      <p class="body">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+    </div>
   </div>
-</div>
+</main>
 
-<div class="attribution">
+<footer role="contentinfo">
+  <div class="attribution">
     <p>Challenge by&nbsp;<a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
     Coded by&nbsp;<a href="#">William Anderson</a>.</p>
 </div>
+</footer>
+
 </body>
 </html>

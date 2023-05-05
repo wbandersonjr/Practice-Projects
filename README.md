@@ -28,7 +28,7 @@ I am just beginning to learn how to write HTML, CSS, and JS code. I am a physics
 
 ### Links
 
-- Solution: [GitHub repository](https://wbandersonjr.github.io/qr_code_component/)
+- Solution: [GitHub repository](https://github.com/wbandersonjr/Solution-QR_Code_Component-Frontend_Mentor-Using_Flexbox.git)
 - Live Site: [Site hosted on Netlify](https://qr-code-component-wbandersonjr.netlify.app/)
 
 ## My process
@@ -45,6 +45,8 @@ I first thought about the layout and came up with an itea of what containers and
 ### What I learned
 
 The major thing I learned from this project is how to start using Flexbox to control the layout of my containers and elements.
+
+The solution feedback from Frontend Mentor informed me of the accesibilty practices of using landmarks. I also neglected to include alt text for the QR code image.
 
 ### Continued development
 
