@@ -12,92 +12,49 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
+I am just beginning to learn how to write HTML, CSS, and JS code. I am a physics and astronomy teacher, and my first project was to build a constellation bingo app. I fumbled my way throught that project, but now want to improve my code writing skills. So, I am taking on Frontend Montor projects to challenge me to improve my skills and to highlight areas of weakness and lack of knowledge.
+
 ### Screenshot
 
-![](./screenshot.jpg)
+![Solution Screenshot](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution: [GitHub repository](https://wbandersonjr.github.io/qr_code_component/)
+- Live Site: [Site hosted on Netlify](https://qr-code-component-wbandersonjr.netlify.app/)
 
 ## My process
 
+I first thought about the layout and came up with an itea of what containers and elements I needed. I thought about which containers would need to nest inside which parent containers, and which items I would need to style individually, versus those that would style similarly. Then, I wrote my HTML and classes with the previous ideas in mind. Finally, I wrote the CSS styling to get the layout, colors, and text correct.
+
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+The major thing I learned from this project is how to start using Flexbox to control the layout of my containers and elements.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I need to continue completing challenges with various layouts to futher develop my skills with Flexbox. 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I am also so new to HTML and CSS that my code is probably sloppy and more complex than necessary. I am also unfamiliar with many of the CSS properties that are needed for completing various projects. So, with more practice I will become more familiar with the most useful properties and not need to search the web for help as frequently.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Flexbox tutorial](https://www.youtube.com/watch?v=siKKg8Y_tQY) - This video, by Max from Academind, was very helpful with learning the basics of Flexbox and its layout properties. 
+- [Text containers and Flexbox](https://dev.to/afif/never-make-your-text-container-a-flexbox-container-m9p) - This answer was helpful, because I made exactly this mistake in my original code.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
