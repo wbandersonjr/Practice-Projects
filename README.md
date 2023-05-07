@@ -48,6 +48,8 @@ The major thing I learned from this project is how to start using Flexbox to con
 
 The solution feedback from Frontend Mentor informed me of the accesibilty practices of using landmarks. I also neglected to include alt text for the QR code image.
 
+Feedback from [Abdul Khalid](https://www.frontendmentor.io/profile/0xAbdulKhalid) was very helpful in understanding the difference between `min-height` and `height` properties. I had set my `<body>` element to `height: 100vh`, and Abdul explained that any content which extended beyond the viewport would be cut off. So, he recommended the practice of using `min-height: 100vh` to ensure that the `<body>` element will grow with the content, if desired.
+
 ### Continued development
 
 I need to continue completing challenges with various layouts to futher develop my skills with Flexbox. 
